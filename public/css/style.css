@@ -2,13 +2,15 @@ body{
   background-color:white;
 }
 .box{
-  background-color:black;
   height: 200px;
   width: 200px;
   margin:10px;
   padding:0px;
   font-size: 100px;
   font-weight: 900;
+  text-align:center;
   color:white;
+  background-color:black;
+  border: solid 5px pink;
   float: left;
 }
