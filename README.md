@@ -1,4 +1,4 @@
 # khmergeek-lesson-01
 
-![top-image](https://gyazo.com/2c36903eda01f20af57827119f1b6783)
+![top-image](https://gyazo.com/ff0f15c45e3251bb84c2a04d16b02610)
 
