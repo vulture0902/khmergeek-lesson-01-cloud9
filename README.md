@@ -30,7 +30,7 @@ type your first name
 type your last  name
 type your Email
 
-https://gyazo.com/2973923cf63f0a03c350ae55652cd6b2
+[![CreateAccount](https://i.gyazo.com/2973923cf63f0a03c350ae55652cd6b2.png)](https://gyazo.com/2973923cf63f0a03c350ae55652cd6b2)
 push [Create your Account]
 
 https://gyazo.com/16178caf466a7d1c578ac5075f33eb04
