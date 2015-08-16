@@ -40,10 +40,13 @@ Create your App
 push [+]
 
 
-https://gyazo.com/c9fcf6dd4a4ba973e353cb92ef01407b
+[![AppName](https://i.gyazo.com/c9fcf6dd4a4ba973e353cb92ef01407b.png)](https://gyazo.com/c9fcf6dd4a4ba973e353cb92ef01407b)
 type your AppName
 
-https://gyazo.com/cab28037998c5fbdcda9ae53a219848d
+
+
+[![display](https://i.gyazo.com/cab28037998c5fbdcda9ae53a219848d.png)](https://gyazo.com/cab28037998c5fbdcda9ae53a219848d)
+
 If this display is appear, it's done.
 
 
