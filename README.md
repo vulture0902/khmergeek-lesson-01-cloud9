@@ -23,7 +23,7 @@ cloud9という無料で使えるプログラミングできるサービスが�
 Accsece to heroku
 https://www.heroku.com/
 
-https://gyazo.com/c8477b8d394ee6eeebfcec6d74faea01
+[![sign_up](https://i.gyazo.com/c8477b8d394ee6eeebfcec6d74faea01.png)](https://gyazo.com/c8477b8d394ee6eeebfcec6d74faea01)
 push [sign up for free]
 
 type your first name
