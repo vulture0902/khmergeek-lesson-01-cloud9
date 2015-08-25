@@ -35,19 +35,8 @@ type your Email
 [![CreateAccount](https://i.gyazo.com/2973923cf63f0a03c350ae55652cd6b2.png)](https://gyazo.com/2973923cf63f0a03c350ae55652cd6b2)
 push [Create your Account]
 
-[![CreatApp](https://i.gyazo.com/16178caf466a7d1c578ac5075f33eb04.png)](https://gyazo.com/16178caf466a7d1c578ac5075f33eb04)
-Create your App
-push [+]
-
-
-[![AppName](https://i.gyazo.com/c9fcf6dd4a4ba973e353cb92ef01407b.png)](https://gyazo.com/c9fcf6dd4a4ba973e353cb92ef01407b)
-type your AppName
-
-
 
 [![display](https://i.gyazo.com/cab28037998c5fbdcda9ae53a219848d.png)](https://gyazo.com/cab28037998c5fbdcda9ae53a219848d)
-
-If this display is appear, it's done.
 
 
 =================================
@@ -83,9 +72,10 @@ https://c9.io/
 [![Gyazo](https://i.gyazo.com/0ec68aadd22d0a1ad11c2b86bdf115a6.png)](https://gyazo.com/0ec68aadd22d0a1ad11c2b86bdf115a6)
 [![Gyazo](https://i.gyazo.com/e1011e472e8655564912366cd383d087.png)](https://gyazo.com/e1011e472e8655564912366cd383d087)
 
+[![Gyazo](https://i.gyazo.com/ef999f3a709a34443ab9fc92759aea6d.png)](https://gyazo.com/ef999f3a709a34443ab9fc92759aea6d)
 
 ```
-git clone https://github.com/vulture0902/khmergeek-lesson-01.git
+git clone https://github.com/your-user-name/khmergeek-lesson-01.git
 ```
 ```
 cd khmergeek-lesson-01/
@@ -94,7 +84,7 @@ cd khmergeek-lesson-01/
 git init
 ```
 ```
-heroku login
+heroku create cambodia-your-name
 ```
 type Email, password
 
