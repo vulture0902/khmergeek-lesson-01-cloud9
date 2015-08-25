@@ -90,3 +90,14 @@ git clone https://github.com/vulture0902/khmergeek-lesson-01.git
 ```
 cd khmergeek-lesson-01/
 ```
+```
+git init
+```
+```
+heroku login
+```
+type Email, password
+
+```
+heroku create cambodia-your-name
+```
