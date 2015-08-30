@@ -77,6 +77,7 @@ https://c9.io/
 ```
 git clone https://github.com/your-user-name/khmergeek-lesson-01.git
 ```
+[![Gyazo](https://i.gyazo.com/7a45800fe32c74e2fabed35749b863b2.png)](https://gyazo.com/7a45800fe32c74e2fabed35749b863b2)
 ```
 cd khmergeek-lesson-01/
 ```
@@ -89,5 +90,15 @@ heroku create cambodia-your-name
 type Email, password
 
 ```
-heroku create cambodia-your-name
+git add .
 ```
+
+```
+git commit -m "commit01"
+```
+
+```
+git push heroku master
+```
+Access to
+` http://cambodia-your-name.herokuapp.com/ `
